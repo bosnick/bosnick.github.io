@@ -287,6 +287,13 @@ footer ul li a {
 .apropos {
     font-size: 24px;
 }
+.faq {
+    font-size: 24px;
+}
+
+.textefaq {
+    font-size: 24px;
+}
 
 .colonne {
     display: inline-block;
@@ -303,6 +310,10 @@ footer ul li a {
 
 #mid {
     text-align: center;
+}
+#midfaq {
+    text-align: center;
+    margin-bottom: 80px;
 }
 
 /*____________________________________________________________________________________*/
